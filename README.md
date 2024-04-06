@@ -1,3 +1,3 @@
-# apexnetwork
-Apexnetwork is a uv made proxy with feature about:blank
-Copyright by skully684
+# outerworld proxy
+ Outerworld proxy is a unblocker. Most features might not work because this is a beta test
+# Copyright by skully684
